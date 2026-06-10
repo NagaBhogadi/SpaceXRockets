@@ -24,5 +24,7 @@ class SplashViewController: UIViewController {
 
             self.present(navController, animated: true)
         }
+        
+    //Test Commant
     }
 }
